@@ -1,0 +1,1 @@
+Data Source=localhost;Initial Catalog=hxpro_db;User ID=root;Password=root

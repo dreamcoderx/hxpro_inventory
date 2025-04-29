@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "hxpro_inventory", "hxpro_inventory.vbproj", "{231809C2-9693-4040-B054-B78AB3B188DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{231809C2-9693-4040-B054-B78AB3B188DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{231809C2-9693-4040-B054-B78AB3B188DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{231809C2-9693-4040-B054-B78AB3B188DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{231809C2-9693-4040-B054-B78AB3B188DB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {15619702-6251-44B3-A9DF-AB33830150AC}
+	EndGlobalSection
+EndGlobal

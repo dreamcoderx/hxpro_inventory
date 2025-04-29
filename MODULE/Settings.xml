@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+  <appSettings>
+    <add key="HourOver" value="24" />
+    <add key="com_name" value="com1" />
+    <add key="com_baud" value="9600" />
+    <add key="com_parity" value="none" />
+    <add key="com_stopbits" value="even" />
+    <add key="com_databits" value="1" />
+  </appSettings>
+</configuration>

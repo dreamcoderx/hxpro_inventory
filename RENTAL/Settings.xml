@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+  <appSettings>
+    <add key="Host" value="192.168.10.150" />
+    <add key="UserName" value="barcode" />
+    <add key="Password" value="barcode" />
+    <add key="ServiceName" value="xe" />
+    <add key="Port" value="1521" />
+    <add key="Host2" value="192.168.44.102" />
+    <add key="UserName2" value="APPS" />
+    <add key="Password2" value="t2stapps" />
+    <add key="ServiceName2" value="test11i" />
+    <add key="Port2" value="1522" />
+    <add key="settings_pass" value="tl1c" />
+    <add key="mssql" value="Data Source=AAB-PC\SQLEX;Initial Catalog=test_db;User ID=root;Password=root" />
+    <add key="com_name" value="com1" />
+    
+  </appSettings>
+</configuration>
